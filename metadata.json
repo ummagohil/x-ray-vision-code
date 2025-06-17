@@ -1,0 +1,5 @@
+
+{
+  "name": "X-Ray Diagnosis Assistant",
+  "description": "Upload X-ray images (PNG, JPEG, WEBP) to get an AI-powered analysis from Gemini. This tool is for informational purposes only and does not substitute professional medical advice."
+}
