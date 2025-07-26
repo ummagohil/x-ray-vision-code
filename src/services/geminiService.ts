@@ -1,6 +1,6 @@
 import { GoogleGenAI, GenerateContentResponse, Part } from "@google/genai";
 
-const MODEL_NAME = "gemini-2.5-flash-preview-04-17";
+const MODEL_NAME = "gemini-1.5-flash";
 
 export async function analyzeXRayImage(
   base64ImageData: string,
